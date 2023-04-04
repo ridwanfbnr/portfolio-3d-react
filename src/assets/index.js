@@ -28,6 +28,7 @@ import tesla from "./company/tesla.png";
 
 import luxspace from "./luxspace.png";
 import meetup from "./meetup.png";
+import jobs from "./jobs-app.png";
 import weather from "./weather.png";
 
 export {
@@ -58,5 +59,6 @@ export {
   tesla,
   luxspace,
   meetup,
+  jobs,
   weather,
 };

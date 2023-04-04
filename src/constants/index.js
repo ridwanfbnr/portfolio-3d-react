@@ -22,6 +22,7 @@ import {
   threejs,
   luxspace,
   meetup,
+  jobs,
   weather,
 } from "../assets";
 
@@ -58,7 +59,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Web Design",
+    title: "React Native Developer",
     icon: design,
   },
 ];
@@ -198,12 +199,12 @@ const projects = [
     source_code_link: "https://github.com/ridwanfbnr/bwa-luxspace-react",
   },
   {
-    name: "Meetups",
+    name: "Jobs App",
     description:
-      "Web application that allows users to make an appointment with someone we want to meet",
+      "Android or IOS application that allows users to search for job vacancies, see about companies, qualifications and responsibilities.",
     tags: [
       {
-        name: "react",
+        name: "reactnative",
         color: "blue-text-gradient",
       },
       {
@@ -215,9 +216,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: meetup,
-    source_code_link:
-      "https://github.com/ridwanfbnr/react-app-meetups-academind",
+    image: jobs,
+    source_code_link: "https://github.com/ridwanfbnr/jobs-app-react-native",
   },
   {
     name: "Weather App",
